@@ -13,7 +13,7 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/Moajjem404/bdcloning
+git clone https://github.com/tanzu-M5R/tanzuXfastcloning
 
 cd bdcloning
 
