@@ -15,6 +15,6 @@ pkg install git
 
 git clone https://github.com/tanzu-M5R/tanzuXfastcloning
 
-cd bdcloning
+cd tanzuXfastcloning.py
 
-python main.py
+python tanzuXfastcloning.py
